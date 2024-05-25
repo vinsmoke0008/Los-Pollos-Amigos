@@ -1,0 +1,113 @@
+.desktop-2-child {
+    position: absolute;
+    bottom: 674px;
+    left: calc(50% - 341px);
+    filter: blur(300px);
+    border-radius: 50%;
+    background-color: #00ff0a;
+    width: 700px;
+    height: 700px;
+    opacity: 0.7;
+}
+.desktop-2-item {
+    position: absolute;
+    bottom: -94px;
+    left: calc(50% - 350px);
+    filter: blur(300px);
+    border-radius: 50%;
+    background-color: #00ff0a;
+    width: 700px;
+    height: 700px;
+    opacity: 0.7;
+}
+.desktop-2-inner {
+    position: absolute;
+    top: 151px;
+    left: 415px;
+    box-shadow: 42.79999923706055px -42.79999923706055px 42.8px rgba(165, 165, 165, 0.09) inset, -42.79999923706055px 42.79999923706055px 42.8px rgba(255, 255, 255, 0.09) inset;
+    backdrop-filter: blur(134.39px);
+    border-radius: 50px;
+    background-color: rgba(217, 217, 217, 0.09);
+    width: 609px;
+    height: 722px;
+}
+.login {
+    position: absolute;
+    top: 217px;
+    left: 657px;
+    font-size: 48px;
+    line-height: 28px;
+    font-weight: 800;
+    font-family: Supreme;
+    text-shadow: 0px 4px 5px rgba(0, 0, 0, 0.5);
+}
+.cureapt {
+    position: absolute;
+    top: 16px;
+    left: 68px;
+    font-size: 24px;
+    font-family: 'Press Start 2P';
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 338px;
+    height: 67px;
+}
+.home {
+    position: absolute;
+    top: 40px;
+    left: 1044px;
+}
+.login1 {
+    position: absolute;
+    top: 40px;
+    left: 1310px;
+}
+.about-us {
+    position: absolute;
+    top: 40px;
+    left: 1203px;
+}
+.dashboard {
+    position: absolute;
+    top: 40px;
+    left: 1106px;
+}
+.rectangle-div {
+    position: absolute;
+    top: 30px;
+    left: 1288px;
+    border-radius: 25px;
+    background-color: #202020;
+    border: 1px solid #000;
+    box-sizing: border-box;
+    width: 84px;
+    height: 38px;
+    opacity: 0.7;
+    mix-blend-mode: difference;
+    cursor: pointer;
+}
+.icon-leaf {
+    position: absolute;
+    height: 4.49%;
+    width: 2.71%;
+    top: 2.54%;
+    right: 90.69%;
+    bottom: 92.97%;
+    left: 6.6%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+}
+.desktop-2 {
+    width: 100%;
+    position: relative;
+    background-color: #fff;
+    height: 1024px;
+    overflow: hidden;
+    text-align: center;
+    font-size: 15px;
+    color: #000;
+    font-family: Junge;
+}
+
